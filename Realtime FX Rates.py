@@ -236,37 +236,8 @@ time_period_dropdown = widgets.Dropdown(options=['5 Years', '1 Year', '6 Months'
 interact(plot_exchange_rates, currency=currency_dropdown, time_period=time_period_dropdown)
 
 
-# In[ ]:
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
