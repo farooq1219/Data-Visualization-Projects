@@ -1,1 +1,0 @@
-Created a self updating graph for exchange rates for multiple countries within various time intervals. This is for predicitive analysis of future exchange rates as well as the correlation between the currencies relative to the Canadian dollar.
